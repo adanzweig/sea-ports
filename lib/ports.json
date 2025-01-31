@@ -17768,8 +17768,9 @@
     "alias": [],
     "regions": "Michoacan",
     "coordinates": [
-    17.9270,
-    -102.1690
+      -102.1690,
+      17.9270
+    
     ],
     "province": "Michoacan",
     "timezone": "CST",
